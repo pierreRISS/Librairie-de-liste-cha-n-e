@@ -16,7 +16,7 @@ J'ai créé ce projet lors de ma formation à Epitech pour gagner du temps. Les 
 ## ⚙️ Compatibilité
 Le projet est compatible avec GCC et peut être compilé avec la commande suivante :
 ```sh
-gcc -o my_program main.c -L. -llist
+gcc -o my_program main.c Librairie-de-liste-cha-n-e/*.c
 ```
 
 ## 🔧 Installation & Utilisation
